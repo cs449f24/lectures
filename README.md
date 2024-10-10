@@ -1,4 +1,4 @@
-# Course materials for CS 449 in Spring 2023
+# Course materials for CS 449 in Fall 2024
 
 Materials created by Bryan Pardo and adapted by Zach Wood-Doughty
 
